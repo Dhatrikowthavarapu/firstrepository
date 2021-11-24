@@ -31,9 +31,9 @@
   - its very very boring
 
 ***this is task list***
-[x] completed
-[] incomplete
-[] not completed
+- [x] completed
+- [] incomplete
+- [] not completed
 
 [google](www.google.com)
 
