@@ -32,8 +32,8 @@
 
 ***this is task list***
 - [x] completed
-- [] incomplete
-- [] not completed
+- [ ] incomplete
+- [ ] not completed
 
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
